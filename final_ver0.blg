@@ -1,0 +1,49 @@
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: final_ver0.aux
+The style file: jplain.bst
+Database file #1: final_ver0.bib
+Warning--I didn't find a database entry for "szita2010monte"
+You've used 17 entries,
+            2620 wiz_defined-function locations,
+            690 strings with 6877 characters,
+and the built_in function-call counts, 6634 in all, are:
+= -- 574
+> -- 213
+< -- 19
++ -- 90
+- -- 72
+* -- 338
+:= -- 913
+add.period$ -- 53
+call.type$ -- 17
+change.case$ -- 82
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 384
+empty$ -- 582
+format.name$ -- 108
+if$ -- 1531
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 18
+newline$ -- 87
+num.names$ -- 32
+pop$ -- 172
+preamble$ -- 1
+purify$ -- 71
+quote$ -- 0
+skip$ -- 335
+stack$ -- 0
+substring$ -- 304
+swap$ -- 90
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 0
+while$ -- 54
+width$ -- 19
+write$ -- 183
+is.kanji.str$ -- 179
+(There was 1 warning)
