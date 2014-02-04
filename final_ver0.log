@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  3 FEB 2014 16:20
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  4 FEB 2014 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -551,32 +551,32 @@ LaTeX Warning: Citation `szita2010monte' on page 4 undefined on input line 162.
 
 File: img/multi_agent_tree.png Graphic file (type bmp)
 <img/multi_agent_tree.png> [4]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 190.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 188.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 190.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
  [5] [6] [7]
 File: img/catan_board.png Graphic file (type bmp)
 
 <img/catan_board.png> [8] [9]
 File: img/smart_random.png Graphic file (type bmp)
  <img/smart_random.png>
-Overfull \hbox (1.07368pt too wide) in paragraph at lines 419--420
+Overfull \hbox (1.07368pt too wide) in paragraph at lines 417--418
  [] 
  []
 
 File: img/smart_uct.png Graphic file (type bmp)
 <img/smart_uct.png>
-Overfull \hbox (1.07368pt too wide) in paragraph at lines 426--427
+Overfull \hbox (1.07368pt too wide) in paragraph at lines 424--425
  [] 
  []
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 417--431
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 415--429
 []$[]$ $[]$ 
  []
 
@@ -592,12 +592,12 @@ File: img/match_100.png Graphic file (type bmp)
  <img/match_100.png>
 File: img/match_1000.png Graphic file (type bmp)
  <img/match_1000.png>
-Overfull \hbox (1.07368pt too wide) in paragraph at lines 548--549
+Overfull \hbox (1.07368pt too wide) in paragraph at lines 546--547
  [] 
  []
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 539--553
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 537--551
 []$[]$ $[]$ 
  []
 
@@ -641,4 +641,4 @@ Here is how much of TeX's memory you used:
  750 hyphenation exceptions out of 8191
  56i,8n,55p,1433b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on final_ver0.dvi (24 pages, 122944 bytes).
+Output written on final_ver0.dvi (24 pages, 122796 bytes).
