@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  4 FEB 2014 15:01
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  4 FEB 2014 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -537,46 +537,46 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 File: img/monte_carlo.png Graphic file (type bmp)
  <img/monte_carlo.png> [3]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 162.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 167.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 162.
+(Font)              scaled to size 9.60999pt on input line 167.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 162.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 167.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 162.
+(Font)              scaled to size 9.60999pt on input line 167.
 
 
-LaTeX Warning: Citation `szita2010monte' on page 4 undefined on input line 162.
+LaTeX Warning: Citation `szita2010monte' on page 4 undefined on input line 167.
 
 
 File: img/multi_agent_tree.png Graphic file (type bmp)
 <img/multi_agent_tree.png> [4]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 188.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 193.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 193.
  [5] [6] [7]
 File: img/catan_board.png Graphic file (type bmp)
 
 <img/catan_board.png> [8] [9]
 File: img/smart_random.png Graphic file (type bmp)
  <img/smart_random.png>
-Overfull \hbox (1.07368pt too wide) in paragraph at lines 417--418
+Overfull \hbox (1.07368pt too wide) in paragraph at lines 422--423
  [] 
  []
 
 File: img/smart_uct.png Graphic file (type bmp)
 <img/smart_uct.png>
-Overfull \hbox (1.07368pt too wide) in paragraph at lines 424--425
+Overfull \hbox (1.07368pt too wide) in paragraph at lines 429--430
  [] 
  []
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 415--429
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 420--434
 []$[]$ $[]$ 
  []
 
@@ -592,12 +592,12 @@ File: img/match_100.png Graphic file (type bmp)
  <img/match_100.png>
 File: img/match_1000.png Graphic file (type bmp)
  <img/match_1000.png>
-Overfull \hbox (1.07368pt too wide) in paragraph at lines 546--547
+Overfull \hbox (1.07368pt too wide) in paragraph at lines 551--552
  [] 
  []
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 537--551
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 542--556
 []$[]$ $[]$ 
  []
 
@@ -641,4 +641,4 @@ Here is how much of TeX's memory you used:
  750 hyphenation exceptions out of 8191
  56i,8n,55p,1433b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on final_ver0.dvi (24 pages, 122796 bytes).
+Output written on final_ver0.dvi (24 pages, 123616 bytes).
