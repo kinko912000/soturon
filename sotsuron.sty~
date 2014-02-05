@@ -23,7 +23,7 @@
 \NeedsTeXFormat{pLaTeX2e}
 \ProvidesPackage{sotsuron}[2002/01/31 v0.3.3]
 \message{卒論 style 2002/01/31 v0.3.3 by Hiroshi Takekawa}
-\DeclareOption{chukan}{\gdef\@thesisprefix{卒業論文中間報}}
+\DeclareOption{chukan}{\gdef\@thesisprefix{卒業論文}}
 \DeclareOption{bachelor}{\gdef\@thesisprefix{卒業論文}}
 \DeclareOption{master}{\gdef\@thesisprefix{修士論文}}
 \DeclareOption{doctor}{\gdef\@thesisprefix{博士論文}}
