@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  5 FEB 2014 14:33
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  5 FEB 2014 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -532,51 +532,51 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 
 [1]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 49.
+(Font)              scaled to size 11.53198pt on input line 53.
  [1] [2]
 File: img/monte_carlo.png Graphic file (type bmp)
  <img/monte_carlo.png> [3]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 168.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 172.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 168.
+(Font)              scaled to size 9.60999pt on input line 172.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 168.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 172.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 168.
+(Font)              scaled to size 9.60999pt on input line 172.
 
 
-LaTeX Warning: Citation `szita2010monte' on page 4 undefined on input line 168.
+LaTeX Warning: Citation `szita2010monte' on page 4 undefined on input line 172.
 
 
 File: img/multi_agent_tree.png Graphic file (type bmp)
 <img/multi_agent_tree.png> [4]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 194.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 198.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 194.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 198.
  [5] [6] [7]
 File: img/catan_board.png Graphic file (type bmp)
 
 <img/catan_board.png> [8] [9]
 File: img/smart_random.png Graphic file (type bmp)
  <img/smart_random.png>
-Overfull \hbox (1.07368pt too wide) in paragraph at lines 423--424
+Overfull \hbox (1.07368pt too wide) in paragraph at lines 427--428
  [] 
  []
 
 File: img/smart_uct.png Graphic file (type bmp)
 <img/smart_uct.png>
-Overfull \hbox (1.07368pt too wide) in paragraph at lines 430--431
+Overfull \hbox (1.07368pt too wide) in paragraph at lines 434--435
  [] 
  []
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 421--435
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 425--439
 []$[]$ $[]$ 
  []
 
@@ -592,12 +592,12 @@ File: img/match_100.png Graphic file (type bmp)
  <img/match_100.png>
 File: img/match_1000.png Graphic file (type bmp)
  <img/match_1000.png>
-Overfull \hbox (1.07368pt too wide) in paragraph at lines 552--553
+Overfull \hbox (1.07368pt too wide) in paragraph at lines 556--557
  [] 
  []
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 543--557
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 547--561
 []$[]$ $[]$ 
  []
 
@@ -635,10 +635,10 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  10241 strings out of 494008
  190653 string characters out of 6154472
- 244751 words of memory out of 5000000
+ 245751 words of memory out of 5000000
  13462 multiletter control sequences out of 15000+600000
  28640 words of font info for 121 fonts, out of 8000000 for 9000
  750 hyphenation exceptions out of 8191
  56i,8n,55p,1433b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on final_ver0.dvi (24 pages, 123768 bytes).
+Output written on final_ver0.dvi (24 pages, 123172 bytes).

@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {3}提案手法}{5}
 \contentsline {subsection}{\numberline {3.1}交渉の利益見積り}{5}
 \contentsline {subsection}{\numberline {3.2}交渉を選ぶ評価関数}{6}
-\contentsline {section}{\numberline {4}実験手法}{7}
+\contentsline {section}{\numberline {4}実験方法}{7}
 \contentsline {subsection}{\numberline {4.1}カタンの開拓者}{8}
 \contentsline {subsubsection}{\numberline {4.1.1}カタンについて}{8}
 \contentsline {subsubsection}{\numberline {4.1.2}カタンのルール}{8}
