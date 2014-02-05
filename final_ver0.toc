@@ -28,3 +28,5 @@
 \contentsline {section}{\numberline {6}おわりに}{20}
 \contentsline {subsection}{\numberline {6.1}まとめ}{20}
 \contentsline {subsection}{\numberline {6.2}今後の課題}{20}
+\contentsline {section}{謝辞}{21}
+\contentsline {section}{参考文献}{22}

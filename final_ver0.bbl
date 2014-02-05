@@ -1,10 +1,51 @@
 \begin{thebibliography}{10}
 
+\bibitem{fisher2011}
+Roger Fisher and William~L Ury.
+\newblock {\em Getting to yes: Negotiating agreement without giving in}.
+\newblock Penguin, 2011.
+
+\bibitem{lewicki2001essentials}
+Roy~J Lewicki, Bruce Barry, and David~M Saunders.
+\newblock {\em Essentials of negotiation}.
+\newblock Irwin/McGraw-Hill New York, 2001.
+
+\bibitem{岡紀子2002視点}
+印南一路.
+\newblock ビジネス交渉と意思決定.
+\newblock 日本経済新聞社, Vol.~45, No.~7, pp. 497--499, 2002.
+
+\bibitem{安村禎明2002モノポリーゲームにおける交渉エージェント}
+安村禎明, 秋山英久, 小口邦彦, 新田克己.
+\newblock モノポリーゲームにおける交渉エージェント.
+\newblock 情報処理学会論文誌, Vol.~43, No.~10, pp. 3048--3055, 2002.
+
+\bibitem{川越敏司2010行動ゲーム理論入門}
+川越敏司.
+\newblock 行動ゲーム理論入門.
+\newblock NTT 出版, 2010.
+
+\bibitem{kocsis2006bandit}
+Levente Kocsis and Csaba Szepesvari.
+\newblock Bandit based {M}onte-{C}arlo planning.
+\newblock In {\em Machine Learning: ECML 2006}, pp. 282--293. Springer, 2006.
+
+\bibitem{schadd2009monte}
+Frederik~Christiaan Schadd.
+\newblock {\em Monte-Carlo search techniques in the modern board game Thurn and
+  Taxis}.
+\newblock PhD thesis, Maastricht Univ., Netherlands, 2009.
+
 \bibitem{anguix2013complex}
 Victor~Sanchez Anguix.
 \newblock {\em Complex Negotiations in Multi-Agent Systems}.
-\newblock PhD thesis, Ph.D thesis, Universitat Politecnica de Valencia, Spain,
-  2013.
+\newblock PhD thesis, Universitat Politecnica de Valencia, Spain, 2013.
+
+\bibitem{開発2009kobe}
+森口竜平, 日潟淳子, 小山田裕太, 斎藤誠一, 城仁士.
+\newblock 交渉論.
+\newblock {\em Bulletin of the Graduate School of Human Development and
+  Environment Kobe University}, Vol.~3, No.~1, 2009.
 
 \bibitem{auer2002finite}
 Peter Auer, Nicolo Cesa-Bianchi, and Paul Fischer.
@@ -16,10 +57,15 @@ Luca Branca and Stefan~J Johansson.
 \newblock Using multi-agent system technologies in {S}ettlers of {C}atan bots.
 \newblock {\em City}, Vol.~2, p.~3, 2007.
 
-\bibitem{fisher2011}
-Roger Fisher and William~L Ury.
-\newblock {\em Getting to yes: Negotiating agreement without giving in}.
-\newblock Penguin, 2011.
+\bibitem{sturtevant2008analysis}
+Nathan~R Sturtevant.
+\newblock An analysis of uct in multi-player games.
+\newblock In {\em Computers and Games}, pp. 37--49. Springer, 2008.
+
+\bibitem{nash1951non}
+John Nash.
+\newblock Non-cooperative games.
+\newblock {\em The Annals of Mathematics}, Vol.~54, No.~2, pp. 286--295, 1951.
 
 \bibitem{guhe2012trading}
 Markus Guhe and Alex Lascarides.
@@ -28,66 +74,19 @@ Markus Guhe and Alex Lascarides.
 \newblock In {\em Proceedings of the 34th Conference of the Cognitive Science
   Society}, 2012.
 
-\bibitem{ito2012complex}
-Takayuki Ito, Minjie Zhang, Valentin Robu, and Tokuro Matsuo.
-\newblock {\em Complex automated negotiations: theories, models, and software
-  competitions}.
-\newblock Springer Publishing Company, Incorporated, 2012.
-
-\bibitem{kocsis2006bandit}
-Levente Kocsis and Csaba Szepesvari.
-\newblock Bandit based monte-carlo planning.
-\newblock In {\em Machine Learning: ECML 2006}, pp. 282--293. Springer, 2006.
-
-\bibitem{lewicki2001essentials}
-Roy~J Lewicki, Bruce Barry, and David~M Saunders.
-\newblock {\em Essentials of negotiation}.
-\newblock Irwin/McGraw-Hill New York, 2001.
-
-\bibitem{nash1951non}
-John Nash.
-\newblock Non-cooperative games.
-\newblock {\em The Annals of Mathematics}, Vol.~54, No.~2, pp. 286--295, 1951.
-
-\bibitem{schadd2009monte}
-Frederik~Christiaan Schadd.
-\newblock {\em Monte-Carlo search techniques in the modern board game Thurn and
-  Taxis}.
-\newblock PhD thesis, MS thesis, Maastricht Univ., Netherlands, 2009.
+\bibitem{SmartSettlers}
+Istv{\'a}n Szita, Guillaume Chaslot, and Pieter Spronck.
+\newblock Monte-{C}arlo tree search in {S}ettlers of {C}atan.
+\newblock In {\em Advances in Computer Games}, pp. 21--32. Springer, 2010.
 
 \bibitem{Jsettler}
 カタンの開拓者{AI}の{J}ettlersのページ.
 \newblock \url{http://nand.net/jsettlers/devel/}.
 
-\bibitem{sturtevant2008analysis}
-Nathan~R Sturtevant.
-\newblock An analysis of uct in multi-player games.
-\newblock In {\em Computers and Games}, pp. 37--49. Springer, 2008.
-
-\bibitem{SmartSettlers}
-Istv{\'a}n Szita, Guillaume Chaslot, and Pieter Spronck.
-\newblock Monte-{C}arlo tree search in settlers of catan.
-\newblock In {\em Advances in Computer Games}, pp. 21--32. Springer, 2010.
-
-\bibitem{岡紀子2002視点}
-印南一路.
-\newblock ビジネス交渉と意思決定.
-\newblock 日本経済新聞社, Vol.~45, No.~7, pp. 497--499, 2002.
-
-\bibitem{川越敏司2010行動ゲーム理論入門}
-川越敏司.
-\newblock 行動ゲーム理論入門.
-\newblock NTT 出版, 2010.
-
-\bibitem{安村禎明2002モノポリーゲームにおける交渉エージェント}
-安村禎明, 秋山英久, 小口邦彦, 新田克己.
-\newblock モノポリーゲームにおける交渉エージェント.
-\newblock 情報処理学会論文誌, Vol.~43, No.~10, pp. 3048--3055, 2002.
-
-\bibitem{開発2009kobe}
-森口竜平, 日潟淳子, 小山田裕太, 斎藤誠一, 城仁士.
-\newblock Kobe university repository: Kernel.
-\newblock {\em Bulletin of the Graduate School of Human Development and
-  Environment Kobe University}, Vol.~3, No.~1, 2009.
+\bibitem{ito2012complex}
+Takayuki Ito, Minjie Zhang, Valentin Robu, and Tokuro Matsuo.
+\newblock {\em Complex automated negotiations: theories, models, and software
+  competitions}.
+\newblock Springer, 2012.
 
 \end{thebibliography}
