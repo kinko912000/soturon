@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  6 FEB 2014 15:47
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  6 FEB 2014 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -533,9 +533,9 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 [1]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 53.
- [1] [2] [3]
+ [1] [2]
 File: img/monte_carlo.png Graphic file (type bmp)
- <img/monte_carlo.png>
+ <img/monte_carlo.png> [3]
 File: img/multi_agent_tree.png Graphic file (type bmp)
  <img/multi_agent_tree.png> [4]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 200.
@@ -633,4 +633,4 @@ Here is how much of TeX's memory you used:
  750 hyphenation exceptions out of 8191
  56i,8n,55p,1433b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on final_ver0.dvi (25 pages, 126024 bytes).
+Output written on final_ver0.dvi (25 pages, 125984 bytes).
