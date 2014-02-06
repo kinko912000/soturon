@@ -63,7 +63,7 @@
 \def\coverbelong#1{\gdef\@coverbelong{#1}}
 \gdef\@coverbelong{電子情報工学科}
 \def\coverdate#1{\gdef\@coverdate{#1}}
-\gdef\@coverdate{平成25年2月7日}
+\gdef\@coverdate{平成26年2月7日}
 \def\makecover{
  \thispagestyle{empty}
  \title{\vspace{3cm}{\Huge \underline{\@thesisprefix{}\@draftsuffix}}\vspace{5mm}\\
