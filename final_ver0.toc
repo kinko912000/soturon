@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {2.1}多人数ゲーム}{2}
 \contentsline {subsection}{\numberline {2.2}交渉}{2}
 \contentsline {subsubsection}{\numberline {2.2.1}協力型交渉と競争型交渉}{2}
-\contentsline {subsubsection}{\numberline {2.2.2}交渉の手順}{2}
+\contentsline {subsubsection}{\numberline {2.2.2}交渉の手順}{3}
 \contentsline {subsubsection}{\numberline {2.2.3}交渉に関するアルゴリズム}{3}
 \contentsline {subsection}{\numberline {2.3}UCTアルゴリズム}{3}
 \contentsline {subsection}{\numberline {2.4}多人数ゲームにおけるUCTアルゴリズム}{4}
