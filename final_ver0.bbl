@@ -36,6 +36,26 @@ Victor~Sanchez Anguix.
 \newblock {\em Bulletin of the Graduate School of Human Development and
   Environment Kobe University}, Vol.~3, No.~1, 2009.
 
+\bibitem{baarslag2012evaluating}
+Tim Baarslag, Katsuhide Fujita, Enrico~H. Gerding, Koen Hindriks, Takayuki Ito,
+  Nicholas~R. Jennings, Catholijn Jonker, Sarit Krause, Raz Lin, Valentin Robu,
+  and Colin~R. Williams.
+\newblock Evaluating practical negotiating agents: Results and analysis of the
+  2011 international competition.
+\newblock {\em Artificial Intelligence}, 2012.
+
+\bibitem{rasmussen2006gaussian}
+Carl~Edward Rasmussen.
+\newblock Gaussian processes for machine learning.
+\newblock 2006.
+
+\bibitem{williams2013iamhaggler2011}
+Colin~R. Williams, Valentin Robu, Enrico~H. Gerding, and Nicholas~R. Jennings.
+\newblock I{A}{M}haggler2011: A gaussian process regression based negotiation
+  agent.
+\newblock In {\em Complex Automated Negotiations: Theories, Models, and
+  Software Competitions}, pp. 209--212. Springer, 2013.
+
 \bibitem{kocsis2006bandit}
 Levente Kocsis and Csaba Szepesvari.
 \newblock Bandit based {M}onte-{C}arlo planning.
@@ -50,6 +70,11 @@ Peter Auer, Nicolo Cesa-Bianchi, and Paul Fischer.
 Luca Branca and Stefan~J Johansson.
 \newblock Using multi-agent system technologies in {S}ettlers of {C}atan bots.
 \newblock {\em City}, Vol.~2, p.~3, 2007.
+
+\bibitem{SmartSettlers}
+Istv{\'a}n Szita, Guillaume Chaslot, and Pieter Spronck.
+\newblock Monte-{C}arlo tree search in {S}ettlers of {C}atan.
+\newblock In {\em Advances in Computer Games}, pp. 21--32. Springer, 2010.
 
 \bibitem{sturtevant2008analysis}
 Nathan~R Sturtevant.
@@ -73,11 +98,6 @@ Markus Guhe and Alex Lascarides.
   non-cooperative dialogue.
 \newblock In {\em Proceedings of the 34th Conference of the Cognitive Science
   Society}, 2012.
-
-\bibitem{SmartSettlers}
-Istv{\'a}n Szita, Guillaume Chaslot, and Pieter Spronck.
-\newblock Monte-{C}arlo tree search in {S}ettlers of {C}atan.
-\newblock In {\em Advances in Computer Games}, pp. 21--32. Springer, 2010.
 
 \bibitem{Jsettler}
 カタンの開拓者{AI}の{J}ettlersのページ.
