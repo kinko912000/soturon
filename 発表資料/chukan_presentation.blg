@@ -3,9 +3,13 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: chukan_presentation.aux
 The style file: jplain.bst
 Database file #1: chukan_presentation.bib
+Warning--I didn't find a database entry for "baarslag2012evaluating"
+Warning--I didn't find a database entry for "rasmussen2006gaussian"
+Warning--I didn't find a database entry for "williams2013iamhaggler2011"
+Warning--I didn't find a database entry for "ito2012complex"
 You've used 2 entries,
             2620 wiz_defined-function locations,
-            604 strings with 4843 characters,
+            608 strings with 4926 characters,
 and the built_in function-call counts, 1060 in all, are:
 = -- 103
 > -- 29
@@ -45,3 +49,4 @@ while$ -- 10
 width$ -- 3
 write$ -- 26
 is.kanji.str$ -- 23
+(There were 4 warnings)
