@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  8 FEB 2014 21:41
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.9.11)  9 FEB 2014 00:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -500,27 +500,6 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 73.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 73.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 73.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 73.
-
-
-LaTeX Warning: Citation `baarslag2012evaluating' on page 1 undefined on input l
-ine 73.
-
-
-LaTeX Warning: Citation `rasmussen2006gaussian' on page 1 undefined on input li
-ne 73.
-
-
-LaTeX Warning: Citation `williams2013iamhaggler2011' on page 1 undefined on inp
-ut line 73.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -528,73 +507,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-
-LaTeX Warning: Citation `baarslag2012evaluating' on page 2 undefined on input l
-ine 75.
-
-
-LaTeX Warning: Citation `baarslag2012evaluating' on page 2 undefined on input l
-ine 76.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
 File: img/relation_winrate.png Graphic file (type bmp)
 
 <img/relation_winrate.png>
-Overfull \hbox (128.755pt too wide) in paragraph at lines 106--107
+Overfull \hbox (14.94398pt too wide) in paragraph at lines 103--104
  [] 
+ []
+
+(./chukan_presentation.bbl
+LaTeX Font Info:    Font shape `JT1/gt/m/it' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 9.
+LaTeX Font Info:    Font shape `JY1/gt/m/it' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 9.
+
+Underfull \hbox (badness 5274) in paragraph at lines 4--10
+\OT1/cmr/m/n/10 Gerd-ing, Koen Hin-driks, Takayuki Ito,
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [2])
+[3
 
-
-LaTeX Warning: Citation `ito2012complex' on page 3 undefined on input line 117.
-
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 139.
-
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 139.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-(./chukan_presentation.bbl
-LaTeX Font Info:    Font shape `JT1/gt/m/it' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 6.
-LaTeX Font Info:    Font shape `JY1/gt/m/it' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 6.
-) [4] (./chukan_presentation.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+] (./chukan_presentation.aux) ) 
 Here is how much of TeX's memory you used:
- 10126 strings out of 494008
- 188957 string characters out of 6154472
- 241764 words of memory out of 5000000
- 13373 multiletter control sequences out of 15000+600000
- 17321 words of font info for 73 fonts, out of 8000000 for 9000
+ 10101 strings out of 494008
+ 188523 string characters out of 6154472
+ 238762 words of memory out of 5000000
+ 13352 multiletter control sequences out of 15000+600000
+ 17013 words of font info for 72 fonts, out of 8000000 for 9000
  750 hyphenation exceptions out of 8191
- 56i,8n,55p,1032b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,8n,55p,1022b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on chukan_presentation.dvi (4 pages, 24128 bytes).
+Output written on chukan_presentation.dvi (3 pages, 12524 bytes).
