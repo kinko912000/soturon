@@ -1,0 +1,172 @@
+%%
+%% This is file `sotsuron.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% sotsuron.dtx  (with options: `package')
+%% 
+%% IMPORTANT NOTICE:
+%% 
+%% For the copyright see the source file.
+%% 
+%% Any modified versions of this file must be renamed
+%% with new filenames distinct from sotsuron.sty.
+%% 
+%% For distribution of the original source see the terms
+%% for copying and modification in the file sotsuron.dtx.
+%% 
+%% This generated file may be distributed as long as the
+%% original source files, as listed above, are part of the
+%% same distribution. (The sources need not necessarily be
+%% in the same archive or directory.)
+\NeedsTeXFormat{pLaTeX2e}
+\ProvidesPackage{sotsuron}[2002/01/31 v0.3.3]
+\message{卒論 style 2002/01/31 v0.3.3 by Hiroshi Takekawa}
+\DeclareOption{chukan}{\gdef\@thesisprefix{卒業論文}}
+\DeclareOption{bachelor}{\gdef\@thesisprefix{卒業論文}}
+\DeclareOption{master}{\gdef\@thesisprefix{修士論文}}
+\DeclareOption{doctor}{\gdef\@thesisprefix{博士論文}}
+\DeclareOption{draft}{\gdef\@draftsuffix{草稿}}
+\gdef\@thesisprefix{卒業論文}
+\gdef\@draftsuffix{}
+\newif\if@so@broaderlayout
+\@so@broaderlayouttrue
+\newif\if@so@narrowitem
+\@so@narrowitemtrue
+\newif\if@so@narrowenum
+\@so@narrowenumtrue
+\newif\if@so@narrowdesc
+\@so@narrowdesctrue
+\DeclareOption{nobroaderlayout}{\@so@broaderlayoutfalse}
+\DeclareOption{nonarrowitem}{\@so@narrowitemfalse}
+\DeclareOption{nonarrowenum}{\@so@narrowenumfalse}
+\DeclareOption{nonarrowdesc}{\@so@narrowdescfalse}
+\ProcessOptions
+\def\cover#1#2#3#4{%
+ \gdef\@covertitle{#1}
+ \gdef\@coverauthor{#2}
+ \gdef\@coveradvisora{#3}
+ \gdef\@coveradvisorb{#4}
+}
+
+% 論文タイト
+\gdef\@covertitle{多人数ゲームにおける交渉手法の提案} % 日本語タイトル、coverマクロから設定
+\gdef\@coveretitle{No Title} % 英語タイトル、coverマクロから設定
+% 著者
+\gdef\@coverauthor{03120394 \quad 伊藤~義章} % coverマクロから設定
+% 指導教官１
+\gdef\@coveradvisora{近山~隆~{\huge 教授}} % coverマクロから設定
+% 指導教官２
+\gdef\@coveradvisorb{鶴岡~慶雅~{\huge 准教授}} % coverマクロから設定
+
+\def\coverbelong#1{\gdef\@coverbelong{#1}}
+\gdef\@coverbelong{電子情報工学科}
+\def\coverdate#1{\gdef\@coverdate{#1}}
+\gdef\@coverdate{平成26年2月7日}
+\def\makecover{
+ \thispagestyle{empty}
+ \title{\vspace{3cm}{\Huge \underline{\@thesisprefix{}\@draftsuffix}}\vspace{5mm}\\
+        {\Huge \@covertitle}\vspace{5mm}\\
+ 	{\Large {\@coverdate}提出}\vspace{6cm}}
+\date{}
+\author{{\huge 指導教員} {\Huge \quad\@coveradvisora}\\
+        \phantom{{\huge 指導教員}} {\Huge \quad\@coveradvisorb}\vspace{20mm}\\
+         {\huge \@coverbelong}\vspace{5mm}\\
+         {\Huge \@coverauthor}\vspace{1cm}}
+ \maketitle
+ \thispagestyle{empty}
+ \newpage
+}
+\def\maketoc{
+ \pagenumbering{roman}
+ \tableofcontents
+ \cleardoublepage
+ \pagenumbering{arabic}}
+\def\acknowledge{\addcontentsline{toc}{section}{謝辞}}
+\def\biblio{\addcontentsline{toc}{section}{参考文献}}
+\if@so@broaderlayout
+%\addtolength{\textwidth}{2cm}
+\addtolength{\textheight}{3cm}
+\addtolength{\topmargin}{-2cm}
+\fi
+%\if@so@broaderlayout
+%\setlength{\headsep}{0mm}
+%\setlength{\oddsidemargin}{5mm}
+%\setlength{\evensidemargin}{-10mm}
+%\fi
+\if@so@broaderlayout
+\setlength{\headsep}{0mm}
+%\setlength{\oddsidemargin}{0mm}
+%\setlength{\evensidemargin}{0mm}
+\fi
+\if@so@narrowitem
+\def\itemize{%
+  \ifnum \@itemdepth >\thr@@\@toodeep\else
+    \advance\@itemdepth\@ne
+    \edef\@itemitem{labelitem\romannumeral\the\@itemdepth}%
+    \expandafter
+    \list
+      \csname\@itemitem\endcsname
+      {\def\makelabel##1{\hss\llap{##1}}%
+       \itemsep\z@\parsep\parskip}%%% added
+  \fi}
+\fi
+\if@so@narrowenum
+\def\enumerate{%
+  \ifnum \@enumdepth >\thr@@\@toodeep\else
+    \advance\@enumdepth\@ne
+    \edef\@enumctr{enum\romannumeral\the\@enumdepth}%
+      \expandafter
+      \list
+        \csname label\@enumctr\endcsname
+        {\usecounter\@enumctr\def\makelabel##1{\hss\llap{##1}}%
+         \itemsep\z@\parsep\parskip}%%% added
+  \fi}
+\fi
+\if@so@narrowdesc
+\renewenvironment{description}
+  {\list{}{\labelwidth\z@ \itemindent-\leftmargin
+   \iftdir
+     \leftmargin\leftskip \advance\leftmargin3\Cwd
+     \rightmargin\rightskip
+     \labelsep=1zw \itemsep\z@
+     \listparindent\z@ \topskip\z@ \parskip\z@ \partopsep\z@
+   \fi
+        \itemsep=0pt
+        \let\makelabel\descriptionlabel}}{\endlist}
+\fi
+\def\bibname{参考文献}
+\newif\if@mainmatter \@mainmattertrue
+\def\@makesectionhead#1{\hbox{}%
+  \vskip2\Cvs
+  {\parindent\z@
+   \raggedright
+   \reset@font\huge\bfseries
+   \ifnum \c@secnumdepth >\m@ne
+     \setlength\@tempdima{\linewidth}%
+    \if@mainmatter
+     \setbox\z@\hbox{\@chapapp\thesection\@chappos}%
+     \addtolength\@tempdima{-\wd\z@}%
+     \unhbox\z@\nobreak
+     \vskip 20pt
+    \fi
+     \vtop{\hsize\@tempdima#1}%
+   \else
+     #1\relax
+   \fi}\nobreak\vskip3\Cvs}
+\long\def\@makecaption#1#2{%
+  \vskip\abovecaptionskip
+  %\sbox\@tempboxa{#1\hskip1zw#2}%
+  \sbox\@tempboxa{#1. #2}%
+  \ifdim \wd\@tempboxa >\hsize
+    %#1\hskip1zw#2\relax\par
+    #1. #2\relax\par
+  \else
+    \global \@minipagefalse
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip}
+\endinput
+%%
+%% End of file `sotsuron.sty'.

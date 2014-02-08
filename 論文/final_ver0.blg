@@ -1,0 +1,49 @@
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: final_ver0.aux
+The style file: junsrt.bst
+Database file #1: final_ver0.bib
+Warning--empty journal in rasmussen2006gaussian
+You've used 20 entries,
+            2270 wiz_defined-function locations,
+            648 strings with 7004 characters,
+and the built_in function-call counts, 5958 in all, are:
+= -- 456
+> -- 176
+< -- 20
++ -- 72
+- -- 52
+* -- 262
+:= -- 738
+add.period$ -- 63
+call.type$ -- 20
+change.case$ -- 14
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 406
+empty$ -- 597
+format.name$ -- 104
+if$ -- 1472
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 21
+newline$ -- 102
+num.names$ -- 19
+pop$ -- 158
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 294
+stack$ -- 0
+substring$ -- 250
+swap$ -- 101
+text.length$ -- 20
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 44
+width$ -- 22
+write$ -- 214
+is.kanji.str$ -- 218
+(There was 1 warning)
