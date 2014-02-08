@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{kocsis2006bandit}
+Levente Kocsis and Csaba Szepesvari.
+\newblock Bandit based monte-carlo planning.
+\newblock In {\em Machine Learning: ECML 2006}, pp. 282--293. Springer, 2006.
+
+\bibitem{szita2010monte}
+Istvan Szita, Guillaume Chaslot, and Pieter Spronck.
+\newblock Monte-carlo tree search in {s}ettlers of {c}atan.
+\newblock In {\em Advances in Computer Games}, pp. 21--32. Springer, 2010.
+
+\end{thebibliography}
