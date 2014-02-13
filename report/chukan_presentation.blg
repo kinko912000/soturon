@@ -1,0 +1,47 @@
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: chukan_presentation.aux
+The style file: jplain.bst
+Database file #1: chukan_presentation.bib
+You've used 2 entries,
+            2620 wiz_defined-function locations,
+            604 strings with 5054 characters,
+and the built_in function-call counts, 1140 in all, are:
+= -- 95
+> -- 69
+< -- 1
++ -- 28
+- -- 26
+* -- 75
+:= -- 175
+add.period$ -- 7
+call.type$ -- 2
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 47
+empty$ -- 73
+format.name$ -- 39
+if$ -- 247
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 27
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 43
+stack$ -- 0
+substring$ -- 42
+swap$ -- 11
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 7
+width$ -- 3
+write$ -- 24
+is.kanji.str$ -- 30

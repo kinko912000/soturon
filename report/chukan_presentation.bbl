@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{baarslag2012evaluating}
+Tim Baarslag, Katsuhide Fujita, Enrico~H. Gerding, Koen Hindriks, Takayuki Ito,
+  Nicholas~R. Jennings, Catholijn Jonker, Sarit Krause, Raz Lin, Valentin Robu,
+  and Colin~R. Williams.
+\newblock Evaluating practical negotiating agents: Results and analysis of the
+  2011 international competition.
+\newblock {\em Artificial Intelligence}, 2012.
+
+\bibitem{kocsis2006bandit}
+Levente Kocsis and Csaba Szepesvari.
+\newblock Bandit based {M}onte-{C}arlo planning.
+\newblock In {\em Machine Learning: ECML 2006}, pp. 282--293. Springer, 2006.
+
+\end{thebibliography}

@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}はじめに}{1}
+\contentsline {subsection}{\numberline {1.1}背景}{1}
+\contentsline {subsection}{\numberline {1.2}目的}{1}
+\contentsline {subsection}{\numberline {1.3}本研究の貢献}{2}
+\contentsline {subsection}{\numberline {1.4}本稿の構成}{2}
+\contentsline {section}{\numberline {2}関連研究}{2}
+\contentsline {subsection}{\numberline {2.1}多人数ゲーム}{2}
+\contentsline {subsection}{\numberline {2.2}交渉}{2}
+\contentsline {subsubsection}{\numberline {2.2.1}協力型交渉と競争型交渉}{2}
+\contentsline {subsubsection}{\numberline {2.2.2}交渉の手順}{3}
+\contentsline {subsubsection}{\numberline {2.2.3}交渉に関するアルゴリズム}{3}
+\contentsline {subsection}{\numberline {2.3}UCTアルゴリズム}{3}
+\contentsline {subsection}{\numberline {2.4}多人数ゲームにおけるUCTアルゴリズム}{4}
+\contentsline {section}{\numberline {3}提案手法}{5}
+\contentsline {subsection}{\numberline {3.1}交渉の利益見積り}{5}
+\contentsline {subsection}{\numberline {3.2}交渉を選ぶ評価関数}{6}
+\contentsline {section}{\numberline {4}実験方法}{8}
+\contentsline {subsection}{\numberline {4.1}カタンの開拓者}{8}
+\contentsline {subsubsection}{\numberline {4.1.1}カタンについて}{8}
+\contentsline {subsubsection}{\numberline {4.1.2}カタンのルール}{8}
+\contentsline {subsubsection}{\numberline {4.1.3}カタンの特徴}{10}
+\contentsline {subsection}{\numberline {4.2}SmartSettlers}{10}
+\contentsline {subsection}{\numberline {4.3}問題の簡単化}{11}
+\contentsline {subsection}{\numberline {4.4}交渉の方針}{12}
+\contentsline {section}{\numberline {5}評価}{13}
+\contentsline {subsection}{\numberline {5.1}交渉を行なわない場合の比較}{13}
+\contentsline {subsection}{\numberline {5.2}交渉の利益計算方法の比較}{14}
+\contentsline {subsection}{\numberline {5.3}交渉の評価基準の比較}{16}
+\contentsline {section}{\numberline {6}おわりに}{20}
+\contentsline {subsection}{\numberline {6.1}まとめ}{20}
+\contentsline {subsection}{\numberline {6.2}今後の課題}{20}
+\contentsline {section}{謝辞}{22}
+\contentsline {section}{参考文献}{23}
